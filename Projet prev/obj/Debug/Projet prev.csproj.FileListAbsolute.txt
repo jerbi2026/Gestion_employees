@@ -1,0 +1,36 @@
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\Projet\Projet prev\Projet prev\bin\Debug\Projet prev.exe.config
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\Projet\Projet prev\Projet prev\bin\Debug\Projet prev.exe
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\Projet\Projet prev\Projet prev\bin\Debug\Projet prev.pdb
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\Projet\Projet prev\Projet prev\obj\Debug\Projet prev.csproj.AssemblyReference.cache
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\Projet\Projet prev\Projet prev\obj\Debug\Projet prev.csproj.SuggestedBindingRedirects.cache
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\Projet\Projet prev\Projet prev\obj\Debug\Projet_prev.Form1.resources
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\Projet\Projet prev\Projet prev\obj\Debug\Projet_prev.Properties.Resources.resources
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\Projet\Projet prev\Projet prev\obj\Debug\Projet prev.csproj.GenerateResource.cache
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\Projet\Projet prev\Projet prev\obj\Debug\Projet prev.csproj.CoreCompileInputs.cache
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\Projet\Projet prev\Projet prev\obj\Debug\Projet prev.exe
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\Projet\Projet prev\Projet prev\obj\Debug\Projet prev.pdb
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\Projet\Projet prev\Projet prev\obj\Debug\Projet_prev.Gestionfrm.resources
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\Projet\Projet prev\Projet prev\obj\Debug\Projet_prev.job_frm.resources
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\Projet\Projet prev\Projet prev\obj\Debug\Projet_prev.Departments.resources
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\Projet\Projet prev\Projet prev\obj\Debug\Projet_prev.locfrm.resources
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\Projet\Projet prev\Projet prev\obj\Debug\Projet_prev.Emp_frm.resources
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\Projet\Projet prev\Projet prev\obj\Debug\Projet_prev.interfrm.resources
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\Projet\Projet prev\Projet prev\obj\Debug\Projet_prev.dashfrm.resources
+C:\Users\jerbi\Documents\IHEC Carthage Business Intelligence\1ère année Business Intelligence IHEC Carthage\des projets\Projet gestion des employes en c#\Projet prev\Projet prev\bin\Debug\Projet prev.exe.config
+C:\Users\jerbi\Documents\IHEC Carthage Business Intelligence\1ère année Business Intelligence IHEC Carthage\des projets\Projet gestion des employes en c#\Projet prev\Projet prev\bin\Debug\Projet prev.exe
+C:\Users\jerbi\Documents\IHEC Carthage Business Intelligence\1ère année Business Intelligence IHEC Carthage\des projets\Projet gestion des employes en c#\Projet prev\Projet prev\bin\Debug\Projet prev.pdb
+C:\Users\jerbi\Documents\IHEC Carthage Business Intelligence\1ère année Business Intelligence IHEC Carthage\des projets\Projet gestion des employes en c#\Projet prev\Projet prev\obj\Debug\Projet prev.csproj.AssemblyReference.cache
+C:\Users\jerbi\Documents\IHEC Carthage Business Intelligence\1ère année Business Intelligence IHEC Carthage\des projets\Projet gestion des employes en c#\Projet prev\Projet prev\obj\Debug\Projet prev.csproj.SuggestedBindingRedirects.cache
+C:\Users\jerbi\Documents\IHEC Carthage Business Intelligence\1ère année Business Intelligence IHEC Carthage\des projets\Projet gestion des employes en c#\Projet prev\Projet prev\obj\Debug\Projet_prev.dashfrm.resources
+C:\Users\jerbi\Documents\IHEC Carthage Business Intelligence\1ère année Business Intelligence IHEC Carthage\des projets\Projet gestion des employes en c#\Projet prev\Projet prev\obj\Debug\Projet_prev.Departments.resources
+C:\Users\jerbi\Documents\IHEC Carthage Business Intelligence\1ère année Business Intelligence IHEC Carthage\des projets\Projet gestion des employes en c#\Projet prev\Projet prev\obj\Debug\Projet_prev.Emp_frm.resources
+C:\Users\jerbi\Documents\IHEC Carthage Business Intelligence\1ère année Business Intelligence IHEC Carthage\des projets\Projet gestion des employes en c#\Projet prev\Projet prev\obj\Debug\Projet_prev.Gestionfrm.resources
+C:\Users\jerbi\Documents\IHEC Carthage Business Intelligence\1ère année Business Intelligence IHEC Carthage\des projets\Projet gestion des employes en c#\Projet prev\Projet prev\obj\Debug\Projet_prev.interfrm.resources
+C:\Users\jerbi\Documents\IHEC Carthage Business Intelligence\1ère année Business Intelligence IHEC Carthage\des projets\Projet gestion des employes en c#\Projet prev\Projet prev\obj\Debug\Projet_prev.job_frm.resources
+C:\Users\jerbi\Documents\IHEC Carthage Business Intelligence\1ère année Business Intelligence IHEC Carthage\des projets\Projet gestion des employes en c#\Projet prev\Projet prev\obj\Debug\Projet_prev.locfrm.resources
+C:\Users\jerbi\Documents\IHEC Carthage Business Intelligence\1ère année Business Intelligence IHEC Carthage\des projets\Projet gestion des employes en c#\Projet prev\Projet prev\obj\Debug\Projet_prev.Form1.resources
+C:\Users\jerbi\Documents\IHEC Carthage Business Intelligence\1ère année Business Intelligence IHEC Carthage\des projets\Projet gestion des employes en c#\Projet prev\Projet prev\obj\Debug\Projet_prev.Properties.Resources.resources
+C:\Users\jerbi\Documents\IHEC Carthage Business Intelligence\1ère année Business Intelligence IHEC Carthage\des projets\Projet gestion des employes en c#\Projet prev\Projet prev\obj\Debug\Projet prev.csproj.GenerateResource.cache
+C:\Users\jerbi\Documents\IHEC Carthage Business Intelligence\1ère année Business Intelligence IHEC Carthage\des projets\Projet gestion des employes en c#\Projet prev\Projet prev\obj\Debug\Projet prev.csproj.CoreCompileInputs.cache
+C:\Users\jerbi\Documents\IHEC Carthage Business Intelligence\1ère année Business Intelligence IHEC Carthage\des projets\Projet gestion des employes en c#\Projet prev\Projet prev\obj\Debug\Projet prev.exe
+C:\Users\jerbi\Documents\IHEC Carthage Business Intelligence\1ère année Business Intelligence IHEC Carthage\des projets\Projet gestion des employes en c#\Projet prev\Projet prev\obj\Debug\Projet prev.pdb
